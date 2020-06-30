@@ -8,5 +8,11 @@ Please, help develop this if this is something you want to see done. Make a bran
 Log in to MySQL...
 
 CREATE DATABASE usps;
+
 create user usps_user identified by 123
+
 GRANT ALL PRIVILEGES ON usps.* TO 'usps_user'@'localhost'
+
+apt install maven
+
+apt install leiningen
