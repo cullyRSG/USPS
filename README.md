@@ -16,3 +16,8 @@ GRANT ALL PRIVILEGES ON usps.* TO 'usps_user'@'localhost'
 apt install maven
 
 apt install leiningen
+
+# Source files
+
+https://postalpro.usps.com/modules/custom/postalpro/modules/postalpro_entitypro/files/uspsFontsNonAFP-1.4.0.zip
+
